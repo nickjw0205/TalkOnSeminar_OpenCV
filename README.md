@@ -1,0 +1,1 @@
+# TalkOnSeminar_OpenCV
