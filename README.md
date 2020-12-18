@@ -13,5 +13,5 @@ https://www.notion.so/ON-OpenCV-dfa26834c601446daa753907a1147e14
 | 2교시 | OpenCV 프로그래밍 기초 | <center>[link](https://github.com/nickjw0205/TalkOnSeminar_OpenCV/tree/main/2%EA%B5%90%EC%8B%9C) | <center>[link](https://www.notion.so/2-OpenCV-57dae1ff4eb748018a31f459c45e02cf) |
 | 3교시 | 명함 검출 및 인식 1 | <center>[link](https://github.com/nickjw0205/TalkOnSeminar_OpenCV/tree/main/3%EA%B5%90%EC%8B%9C) | <center>[link](https://www.notion.so/3-OpenCV-1-dbc11de5157f45c79d0652e4a53f03a4) |
 | 4교시 | 명함 검출 및 인식 2 | <center>[link](https://github.com/nickjw0205/TalkOnSeminar_OpenCV/tree/main/4%EA%B5%90%EC%8B%9C) | <center>[link](https://www.notion.so/3-OpenCV-1-dbc11de5157f45c79d0652e4a53f03a4) |
-| 5교시 | 명함 검출 및 인식 3 | - | - |
-| 6교시 | 딥러닝 활용과 얼굴검출 | - | - |
+| 5교시 | 명함 검출 및 인식 3 | <center>[link](https://github.com/nickjw0205/TalkOnSeminar_OpenCV/tree/main/5%EA%B5%90%EC%8B%9C) | <center>[link](https://www.notion.so/5-OpenCV-3-9842d851f97442cba923f43fed8ec560) |
+| 6교시 | 딥러닝 활용과 얼굴검출 | <center>[link](https://github.com/nickjw0205/TalkOnSeminar_OpenCV/tree/main/6%EA%B5%90%EC%8B%9C) | <center>[link](https://www.notion.so/6-OpenCV-cbf97f85c8a444d7aba606972bf94e70) |
